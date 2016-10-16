@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg'https://lh3.googleusercontent.com/-jUky9VMLA9E/V_3MoRT4XMI/AAAAAAAAAOs/7UbZZ53MZcUy3xDRgtq69w1gcP--leGXACJoC/w530-h398-p-rw/HINH%2B6.jpg width='500px'/><br/>TU VAN BAN HANG</a>. CAN HO SAI GON MIA. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-jUky9VMLA9E/V_3MoRT4XMI/AAAAAAAAAOs/7UbZZ53MZcUy3xDRgtq69w1gcP--leGXACJoC/w530-h398-p-rw/HINH%2B6.jpg width='500px'/><br/>TU VAN BAN HANG</a>. CAN HO SAI GON MIA. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
